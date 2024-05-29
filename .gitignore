@@ -1,4 +1,5 @@
 **/*
 !/.gitignore
 !/tmux.conf
+!/*.sh
 !/README.md
